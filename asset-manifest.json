@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.0f0b6da3.css",
-    "main.js": "/static/js/main.af04e4cf.js",
-    "index.html": "/index.html",
-    "main.0f0b6da3.css.map": "/static/css/main.0f0b6da3.css.map",
-    "main.af04e4cf.js.map": "/static/js/main.af04e4cf.js.map"
+    "main.css": "/Rmovies/static/css/main.0f0b6da3.css",
+    "main.js": "/Rmovies/static/js/main.af04e4cf.js",
+    "index.html": "/Rmovies/index.html",
+    "main.0f0b6da3.css.map": "/Rmovies/static/css/main.0f0b6da3.css.map",
+    "main.af04e4cf.js.map": "/Rmovies/static/js/main.af04e4cf.js.map"
   },
   "entrypoints": [
     "static/css/main.0f0b6da3.css",
